@@ -1,0 +1,1 @@
+This project is the first functional website that will be uploaded to github once it is completed. It is a part of The Odin Project, and will host a variety of different recipes that look pretty dang good. This project will focus on web development, some use of the command line, and use of basic html elements to create a rudimentary website. 
